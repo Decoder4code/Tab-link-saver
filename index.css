@@ -1,0 +1,30 @@
+body{ 
+  padding:20px;
+  min-width: 400px;
+}
+input{
+  display: block;
+  width:90%;
+  height:2rem;
+}
+
+button{
+  background-color:rgb(42, 165, 69);
+  margin:10px;
+  color:whitesmoke;
+  padding: 10px;
+}
+#del{
+  background-color: brown;
+}
+ul{
+  padding: 0px;
+}  
+li{
+  list-style-type: none;  
+  margin:4px;
+}
+a{
+  color:green;
+  font-size: larger;
+}
